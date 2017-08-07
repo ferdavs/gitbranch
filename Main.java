@@ -1,3 +1,5 @@
+package org.fer.gitlesson;
+
 public class Main{
     public static void main(String[] args){
         int N = 10;
